@@ -3,8 +3,8 @@
 // See Also
 // https://github.com/microsoft/AppModelSamples/Samples/SparsePackages/PhotoStoreContextMenu/dllmain.cpp
 //#include "pch.h"
-#define WIN32_LEAN_AND_MEAN             // ä» Windows å¤´æ–‡ä»¶ä¸­æ’é™¤æå°‘ä½¿ç”¨çš„å†…å®¹
-// Windows å¤´æ–‡ä»¶
+#define WIN32_LEAN_AND_MEAN             // ´Ó Windows Í·ÎÄ¼şÖĞÅÅ³ı¼«ÉÙÊ¹ÓÃµÄÄÚÈİ
+// Windows Í·ÎÄ¼ş
 #include <windows.h>
 #include <shlwapi.h>
 #include <shobjidl_core.h>

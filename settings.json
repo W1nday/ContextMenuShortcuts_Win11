@@ -1,6 +1,6 @@
 {
     "icon":"\"C:\\Program Files\\NumenShield\\NumenShield.exe\",0",
     "title":"太极盾沙箱中运行",
-    "cmd":"\"C:\\Program Files\\NumenShield\\NumenShield.exe\" -path \"%1\"",
+    "cmd":"\"C:\\Program Files\\NumenShield\\NumenShield.exe\" read \"%1\"",
     "name":"NumenShield",
 }
